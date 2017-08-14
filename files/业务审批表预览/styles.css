@@ -143,28 +143,3 @@
   width:96px;
   word-wrap:break-word;
 }
-#u7225_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:32px;
-  height:32px;
-}
-#u7225 {
-  border-width:0px;
-  position:absolute;
-  left:954px;
-  top:24px;
-  width:32px;
-  height:32px;
-}
-#u7226 {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:8px;
-  width:28px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
