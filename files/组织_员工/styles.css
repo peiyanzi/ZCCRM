@@ -955,6 +955,7 @@
   width:475px;
   height:69px;
   overflow:hidden;
+  visibility:hidden;
 }
 #u5305_state0 {
   border-width:0px;
